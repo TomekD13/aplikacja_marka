@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "title": "28 Zasad Wiary Kościoła Adwentystów Dnia Siódmego",
+    "language": "pl",
+    "bible_translation": "Biblia Warszawska",
+    "version": "1.0"
+  },
+  "zasady": [
+    {
+      "id": 1,
+      "title": "Pismo Święte",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Skąd wiadomo, że Biblia jest prawdziwym Słowem Bożym?",
+          "wersety": [
+            { "r": "2 Tm 3,16-17", "s": "Całe Pismo jest natchnione przez Boga", "t": "Całe Pismo jest natchnione przez Boga i pożyteczne do nauki, do wykrywania błędów, do poprawy, do wychowywania w sprawiedliwości, aby człowiek Boży był doskonały, do wszelkiego dobrego dzieła przygotowany.", "n": "Paweł potwierdza boski autorytet Pisma. Słowo 'natchnione' (gr. theopneustos) dosłownie znaczy 'tchnięte przez Boga' – to Bóg jest jego pierwotnym autorem, a ludzcy pisarze byli Jego narzędziami." },
+            { "r": "2 P 1,20-21", "s": "Prorocy pisali pod wpływem Ducha Świętego", "t": "To przede wszystkim wiedzcie, że żadne proroctwo Pisma nie jest dla prywatnego wyjaśnienia. Albowiem proroctwo nie przychodziło nigdy z woli ludzkiej, lecz wypowiadali je ludzie Boży, niesieni Duchem Świętym.", "n": "Piotr wyjaśnia mechanizm natchnienia – ludzcy autorzy byli 'niesieni' przez Ducha, tak jak wiatr niesie żagiel. Inicjatywa pochodzi od Boga, nie człowieka." },
+            { "r": "J 17,17", "s": "Słowo Boże jest prawdą", "t": "Uświęć ich w prawdzie twojej; słowo twoje jest prawdą.", "n": "Jezus w modlitwie arcykapłańskiej bezpośrednio utożsamia Słowo Boże z prawdą. To fundament adwentystycznego rozumienia Biblii jako jedynego i nieomylnego kryterium wiary." }
+          ]
+        },
+        {
+          "q": "Czy Biblia jest nadal aktualna – pisana w starożytności dla starożytnych ludzi?",
+          "wersety": [
+            { "r": "Hbr 4,12", "s": "Słowo Boże jest żywe i skuteczne dziś", "t": "Słowo Boże jest żywe i skuteczne, ostrzejsze niż wszelki miecz obosieczny, przenikające aż do rozdzielenia duszy i ducha, stawów i szpiku, zdolne osądzić zamysły i zamiary serca.", "n": "Autor Listu do Hebrajczyków używa czasu teraźniejszego – Słowo jest żywe teraz. Jego aktualność jest egzystencjalna: sięga do najgłębszych motywacji człowieka każdej epoki." },
+            { "r": "Ps 119,105", "s": "Słowo Boże oświeca drogę życia", "t": "Słowo twoje jest pochodnią dla nóg moich i światłością dla ścieżki mojej.", "n": "Psalm 119 – największy psalm Biblii – jest całkowicie poświęcony chwale Słowa Bożego. Ten werset wyraża jego praktyczną funkcję: nie tylko informuje, ale prowadzi w konkretnych decyzjach życiowych." },
+            { "r": "Iz 40,8", "s": "Słowo Boże trwa na wieki", "t": "Trawa usycha, kwiat więdnie, lecz słowo Boga naszego trwa na wieki.", "n": "Izajasz zestawia nietrwałość wszystkiego, co ludzkie, z wieczną trwałością Słowa Bożego. To co kulturowe i historyczne przemija – Boże objawienie pozostaje." }
+          ]
+        },
+        {
+          "q": "Jak Biblia ma się do nauki i rozumu? Czy trzeba wybierać?",
+          "wersety": [
+            { "r": "Prz 30,5-6", "s": "Każde słowo Boże jest wypróbowane", "t": "Każde słowo Boże jest wypróbowane; on jest tarczą dla tych, którzy mu ufają. Nie dodawaj nic do jego słów, aby cię nie zganił i nie okazało się, że kłamiesz.", "n": "Słowo 'wypróbowane' (hbr. tsaraph) oznacza metal oczyszczony w ogniu – sprawdzony i potwierdzony. Biblia nie boi się weryfikacji; wzywa do niej. Nauka i wiara nie są wrogami, lecz różnymi drogami poznawania rzeczywistości stworzonej przez tego samego Boga." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Trójca Święta",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Czy Bóg jest jeden czy trzej? Jak to rozumieć?",
+          "wersety": [
+            { "r": "Pwt 6,4", "s": "Bóg jest jeden", "t": "Słuchaj, Izraelu! Pan jest Bogiem naszym, Pan jedynie!", "n": "Shema Izrael – fundamentalne wyznanie wiary judaizmu i chrześcijaństwa. Jedność Boga jest absolutną podstawą. Trójca nie zaprzecza tej jedności, lecz ją rozumie głębiej – jako jedność trzech Osób." },
+            { "r": "Mt 28,19", "s": "Jezus chrzci w imię Trójcy", "t": "Idźcie tedy i czyńcie uczniami wszystkie narody, chrzcząc je w imię Ojca i Syna, i Ducha Świętego.", "n": "Jezus używa liczby pojedynczej – 'imię' (nie: imiona) – dla trzech Osób. To jedno z najwyraźniejszych biblijnych świadectw trynitarnej natury Boga, wypowiedziane przez samego Chrystusa." },
+            { "r": "2 Kor 13,13", "s": "Trzy Osoby Boskie w jednym błogosławieństwie", "t": "Łaska Pana Jezusa Chrystusa i miłość Boga, i społeczność Ducha Świętego niech będzie z wami wszystkimi.", "n": "Paweł naturalnie wymienia trzy Osoby Boskie, przypisując każdej inny atrybut: łaska – Synowi, miłość – Ojcu, społeczność – Duchowi Świętemu. Trójca jest obecna w codziennym życiu wierzącego." }
+          ]
+        },
+        {
+          "q": "Kim jest Duch Święty? To osoba czy jakaś bezosobowa siła?",
+          "wersety": [
+            { "r": "J 16,13-14", "s": "Duch Święty mówi, prowadzi i objawia", "t": "Gdy zaś przyjdzie On, Duch Prawdy, wprowadzi was we wszelką prawdę, bo nie sam od siebie mówić będzie, lecz cokolwiek usłyszy, mówić będzie, i to, co ma przyjść, wam oznajmi.", "n": "Jezus konsekwentnie używa zaimka osobowego 'On' (gr. ekeinos), nie 'to'. Duch Święty mówi, słyszy, oznajmia – to cechy osoby, nie bezosobowej siły." },
+            { "r": "Dz 5,3-4", "s": "Okłamanie Ducha Świętego to okłamanie Boga", "t": "Piotr zaś rzekł: Ananiaszu, czemu zawładnął tobą szatan, że okłamałeś Ducha Świętego? [...] Nie ludziom skłamałeś, lecz Bogu.", "n": "Piotr w jednym oddechu utożsamia Ducha Świętego z Bogiem. Okłamanie osoby wymaga osoby – to dowód na osobowy charakter Ducha i Jego boskość." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ojciec",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Czy Bóg naprawdę kocha ludzi? Skąd to wiadomo?",
+          "wersety": [
+            { "r": "J 3,16", "s": "Bóg tak umiłował świat, że dał Syna", "t": "Albowiem tak Bóg umiłował świat, że Syna swego jednorodzonego dał, aby każdy, kto weń wierzy, nie zginął, ale miał żywot wieczny.", "n": "Miłość Boga mierzona jest kosztem – oddaniem tego, co najcenniejsze. Słowo 'tak' (gr. houtos) wskazuje na miarę i sposób miłości, nie tylko jej fakt." },
+            { "r": "1 J 4,8", "s": "Bóg jest miłością – to Jego istota", "t": "Kto nie miłuje, nie zna Boga, bo Bóg jest miłością.", "n": "Jan nie mówi tylko, że Bóg kocha – mówi, że Bóg jest miłością. Miłość nie jest jedną z Jego cech, lecz Jego istotą. To fundament adwentystycznej teologii charakteru Boga." },
+            { "r": "Rz 8,38-39", "s": "Nic nie może odłączyć od miłości Bożej", "t": "Albowiem jestem tego pewien, że ani śmierć, ani życie, ani aniołowie, ani potęgi niebieskie, ani teraźniejszość, ani przyszłość, ani moce, ani wysokość, ani głębokość, ani żadne inne stworzenie nie zdoła nas odłączyć od miłości Bożej, która jest w Chrystusie Jezusie, Panu naszym.", "n": "Paweł wylicza wszystkie kategorie tego, co mogłoby zagrażać relacji z Bogiem – i neguje każdą z nich. Miłość Boża jest ostateczna i nieodwołalna dla tych, którzy są w Chrystusie." }
+          ]
+        },
+        {
+          "q": "Dlaczego Bóg pozwala na cierpienie, jeśli jest dobry i wszechmocny?",
+          "wersety": [
+            { "r": "Rz 8,28", "s": "Bóg obraca wszystko ku dobremu", "t": "A wiemy, że wszystko współdziała ku dobremu tych, którzy miłują Boga, którzy według postanowienia jego są powołani.", "n": "Paweł nie twierdzi, że wszystko jest dobre – twierdzi, że Bóg sprawia, iż wszystko 'współdziała' (gr. synergei) ku dobremu. Bóg jest aktywnym uczestnikiem nawet w cierpieniu, nie biernym obserwatorem." },
+            { "r": "Jk 1,2-4", "s": "Próby kształtują dojrzałość wiary", "t": "Za pełną radość poczytujcie to sobie, bracia moi, gdy rozmaite próby przechodzicie, wiedząc, że doświadczenie wiary waszej sprawia wytrwałość, wytrwałość zaś niech prowadzi do dzieła doskonałego.", "n": "Jakub patrzy na cierpienie przez pryzmat celu, nie przyczyny. Wiara oczyszcza się w ogniu jak złoto. Cierpienie może być Bożą szkołą charakteru – nie dowodem Jego nieobecności." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Syn Boży",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Czy Jezus to naprawdę Bóg, czy tylko wyjątkowy człowiek?",
+          "wersety": [
+            { "r": "J 1,1-3", "s": "Słowo (Jezus) było Bogiem od początku", "t": "Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo. Ono było na początku u Boga. Wszystko przez nie powstało, a bez niego nic nie powstało, co powstało.", "n": "Jan nawiązuje do Genesis 1,1 – 'Na początku'. Jezus nie jest stworzeniem, lecz Stwórcą. Trzykrotne 'było' (gr. en) wskazuje na wieczne istnienie, nie na początek." },
+            { "r": "Kol 2,9", "s": "W Jezusie mieszka pełnia Bóstwa cieleśnie", "t": "Gdyż w nim mieszka cieleśnie cała pełnia Boskości.", "n": "Paweł używa słowa 'cieleśnie' – pełnia Bóstwa zamieszkała w realnym ciele. To odrzuca zarówno doketyzm (Jezus tylko wyglądał jak człowiek) jak i arianizm (Jezus był tylko człowiekiem)." },
+            { "r": "J 20,28", "s": "Tomasz wyznaje: Jezus jest Panem i Bogiem", "t": "Odpowiedział Tomasz i rzekł mu: Pan mój i Bóg mój!", "n": "To najsilniejsze wyznanie boskości Jezusa w Ewangeliach. Jezus nie poprawia Tomasza – akceptuje to wyznanie. Gdyby był tylko człowiekiem, byłoby to bluźnierstwo." }
+          ]
+        },
+        {
+          "q": "Po co była konieczna śmierć Jezusa? Czy Bóg nie mógł po prostu przebaczyć?",
+          "wersety": [
+            { "r": "Rz 6,23", "s": "Zapłatą za grzech jest śmierć", "t": "Albowiem zapłatą za grzech jest śmierć, lecz darem łaski Bożej jest żywot wieczny w Chrystusie Jezusie, Panu naszym.", "n": "Grzech oddziela od Boga, który jest źródłem życia. Śmierć Jezusa odpowiada na realne prawo moralne wszechświata. Łaska nie znosi sprawiedliwości – ją wypełnia." },
+            { "r": "Iz 53,5", "s": "Chrystus poniósł karę za nasze grzechy", "t": "Lecz on zraniony jest za występki nasze, starty za winy nasze. Ukarany został dla naszego zbawienia, a jego ranami jesteśmy uleczeni.", "n": "Proroctwo z 700 lat przed Chrystusem opisuje zastępcze cierpienie Mesjasza. Krzyż ukazuje nie tylko miłość Boga, ale i Jego sprawiedliwość." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Duch Święty",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Co właściwie robi Duch Święty w życiu człowieka?",
+          "wersety": [
+            { "r": "J 16,8", "s": "Duch Święty przekonuje o grzechu i zbawieniu", "t": "A gdy On przyjdzie, przekona świat o grzechu i o sprawiedliwości, i o sądzie.", "n": "Duch Święty jest tym, który inicjuje nawrócenie. Nie zmusza – przekonuje. Bez Jego działania człowiek nie mógłby sam dojść do rozpoznania własnego grzechu ani potrzeby Zbawiciela." },
+            { "r": "Ga 5,22-23", "s": "Owoce Ducha Świętego w życiu wierzącego", "t": "Owocem zaś Ducha jest: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność, łagodność, wstrzemięźliwość.", "n": "Owoce Ducha to nie efekt ludzkiego wysiłku moralnego, lecz naturalna konsekwencja obecności Ducha w życiu. Tak jak drzewo jabłoni rodzi jabłka, tak chrześcijanin napełniony Duchem rodzi te cechy charakteru." },
+            { "r": "Rz 8,26", "s": "Duch Święty wstawia się za nami w modlitwie", "t": "Podobnie i Duch wspiera nas w słabościach naszych; nie wiemy bowiem, o co się modlić, jak należy, ale sam Duch wstawia się za nami w niewysłowionych westchnieniach.", "n": "Duch Święty jest aktywny nawet wtedy, gdy człowiek nie wie, jak się modlić. To niezwykłe zapewnienie: nasza słabość duchowa nie blokuje dostępu do Boga, bo Duch Święty jest naszym Orędownikiem." }
+          ]
+        },
+        {
+          "q": "Co oznacza 'chrzest Duchem Świętym'?",
+          "wersety": [
+            { "r": "Dz 2,38", "s": "Duch Święty jest darem dla każdego wierzącego", "t": "A Piotr do nich: Upamiętajcie się i niechaj się każdy z was ochrzci w imię Jezusa Chrystusa na odpuszczenie grzechów waszych, a otrzymacie dar Ducha Świętego.", "n": "Piotr łączy chrzest z otrzymaniem Ducha Świętego jako daru – nie przywileju dla nielicznych, lecz obietnicy dla każdego, kto się nawróci. Duch Święty jest normalną częścią życia chrześcijańskiego." },
+            { "r": "Ef 5,18", "s": "Bądźcie napełniani Duchem Świętym", "t": "I nie upijajcie się winem, w którym jest rozpusta, ale bądźcie napełnieni Duchem.", "n": "Paweł używa strony biernej i czasu trwającego – 'bądźcie napełniani' (stale). Napełnienie Duchem nie jest jednorazowym doświadczeniem, lecz ciągłym procesem otwartości na Jego działanie." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Stworzenie",
+      "kategoria": "Bóg",
+      "pytania": [
+        {
+          "q": "Czy Bóg naprawdę stworzył świat, czy to tylko mit? Co z ewolucją?",
+          "wersety": [
+            { "r": "Rdz 1,1", "s": "Na początku Bóg stworzył niebo i ziemię", "t": "Na początku Bóg stworzył niebo i ziemię.", "n": "Pierwsze słowa Biblii są deklaracją teologiczną, nie protokołem naukowym. Odpowiadają na pytanie 'kto?' i 'po co?' – nie 'jak dokładnie?'. Adwentyści wierzą w dosłowne sześciodniowe stworzenie jako fundament tożsamości i szabatu." },
+            { "r": "Rdz 1,31", "s": "Bóg ocenił swoje stworzenie jako bardzo dobre", "t": "I spojrzał Bóg na wszystko, co uczynił, a było to bardzo dobre.", "n": "Stworzenie wyszło z rąk Boga jako doskonałe. Cierpienie, śmierć i zło nie są dziełem Bożym – to efekt grzechu. To ma fundamentalne znaczenie dla rozumienia natury Boga." },
+            { "r": "Wj 20,11", "s": "Szabat upamiętnia stworzenie w sześciu dniach", "t": "Gdyż w sześciu dniach uczynił Pan niebo i ziemię, morze i wszystko, co w nich jest, a siódmego dnia odpoczął. Dlatego Pan pobłogosławił dzień sabatu i poświęcił go.", "n": "Czwarte przykazanie bezpośrednio łączy tygodniowy rytm czasu z biblijnym opisem stworzenia. Szabat jest tygodniowym pomnikiem stwórczego dzieła Boga." }
+          ]
+        },
+        {
+          "q": "Dlaczego Bóg stworzył człowieka, jeśli wiedział, że zgrzeszy?",
+          "wersety": [
+            { "r": "Rdz 1,26-27", "s": "Człowiek stworzony na obraz Boży", "t": "I rzekł Bóg: Uczyńmy człowieka na obraz nasz, podobnego do nas i niech panuje nad rybami morskimi i nad ptactwem niebios, i nad bydłem, i nad całą ziemią. I stworzył Bóg człowieka na obraz swój.", "n": "Człowiek jest jedynym stworzeniem opisanym jako 'obraz Boży' (imago Dei). Oznacza to zdolność do relacji, rozumu, moralności i miłości. Bóg stworzył nas, by mieć z nami relację – ryzyko grzechu było ceną wolności." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Natura człowieka",
+      "kategoria": "Człowiek",
+      "pytania": [
+        {
+          "q": "Co się dzieje z człowiekiem po śmierci? Czy dusza idzie od razu do nieba?",
+          "wersety": [
+            { "r": "Koh 9,5", "s": "Umarli nic nie wiedzą", "t": "Żywi bowiem wiedzą, że umrą, lecz umarli nic nie wiedzą i nie ma już dla nich żadnej zapłaty, gdyż pamięć o nich idzie w zapomnienie.", "n": "Kaznodzieja Salomona opisuje śmierć jako stan całkowitej nieświadomości. Nie ma tu mowy o duszy odlatującej do nieba – śmierć jest jak sen, z którego Bóg obudzi człowieka przy zmartwychwstaniu." },
+            { "r": "J 11,11-14", "s": "Jezus nazywa śmierć snem", "t": "To powiedział, a potem rzekł do nich: Łazarz, przyjaciel nasz, zasnął, ale idę, aby go obudzić. [...] Wtedy Jezus powiedział im otwarcie: Łazarz umarł.", "n": "Jezus używa metafory snu jako opisu śmierci. Sen – nieświadomy odpoczynek z przebudzeniem – jest biblijnym obrazem śmierci przed zmartwychwstaniem. To nie pośredni stan świadomości, lecz spoczynek." },
+            { "r": "1 Tes 4,16", "s": "Zmartwychwstanie przy powtórnym przyjściu Chrystusa", "t": "Gdyż sam Pan na dany rozkaz, na głos archanioła i trąby Bożej zstąpi z nieba; i najpierw powstaną ci, którzy umarli w Chrystusie.", "n": "Paweł nie mówi o duszy odlatującej do nieba zaraz po śmierci – mówi o zmartwychwstaniu przy powrocie Chrystusa. To nadzieja chrześcijańska: nie nieśmiertelność duszy, lecz zmartwychwstanie ciała." }
+          ]
+        },
+        {
+          "q": "Czy dusza jest nieśmiertelna? Czy człowiek ma duszę, czy jest duszą?",
+          "wersety": [
+            { "r": "Rdz 2,7", "s": "Człowiek stał się żywą duszą, nie ma oddzielnej duszy", "t": "Ukształtował Pan Bóg człowieka z prochu ziemi i tchnął w nozdrza jego dech życia. Tak stał się człowiek istotą żywą.", "n": "Biblia mówi: człowiek stał się żywą duszą (hbr. nefesz chajjah) – nie że człowiek dostał duszę. Ciało + tchnienie życia = żywa istota. Gdy tchnienie ustaje, człowiek przestaje być żywą duszą." },
+            { "r": "1 Tm 6,15-16", "s": "Tylko Bóg jest nieśmiertelny", "t": "Który we właściwym czasie objawi błogosławiony i jedyny władca, Król królów i Pan panów, jedyny, który ma nieśmiertelność, który mieszka w światłości niedostępnej.", "n": "Paweł przypisuje nieśmiertelność wyłącznie Bogu. Człowiek nie ma wrodzonej nieśmiertelności – może ją otrzymać tylko jako dar Boga przy zmartwychwstaniu. To odróżnia chrześcijaństwo biblijne od greckiej filozofii." }
+          ]
+        },
+        {
+          "q": "Czy można rozmawiać z duchami zmarłych lub wróżyć z Biblii?",
+          "wersety": [
+            { "r": "Iz 8,19-20", "s": "Nie pytać umarłych, lecz Boga i Jego Słowo", "t": "A gdy wam powiedzą: Zasięgajcie rady u wywoływaczy duchów i u wróżbitów, którzy szepcą i mamroczą – czy lud nie powinien zasięgać rady u swego Boga? Czy pytać umarłych w sprawie żywych? Na prawo i na objawienie!", "n": "Bóg kategorycznie odrzuca spirytyzm i nekromancję. Powodem jest logika biblijna: jeśli umarli śpią nieświadomi, kontakt z 'duchami' jest niemożliwy – oznaczałby kontakt z demonami podszywającymi się pod zmarłych." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Wielki bój",
+      "kategoria": "Człowiek",
+      "pytania": [
+        {
+          "q": "Skąd pochodzi zło na świecie? Dlaczego Bóg go nie zniszczy?",
+          "wersety": [
+            { "r": "Iz 14,12-14", "s": "Upadek Lucyfera z powodu pychy", "t": "Jakżeś to spadł z niebios, o Lucyferze, synu jutrzenki! Powalony jesteś na ziemię, pogromco narodów! A przecież ty mówiłeś w swoim sercu: Wstąpię na niebiosa, swój tron wyniosę ponad gwiazdy Boże.", "n": "Izajasz opisuje metaforycznie upadek szatana. Zło nie jest odwieczne ani równorzędne z dobrem – to zbuntowane stworzenie, które wybrało pychę i bunt. Bóg nie jest twórcą zła." },
+            { "r": "Ap 12,7-9", "s": "Wielki bój między Chrystusem a szatanem", "t": "I wybuchła walka w niebie: Michał i jego aniołowie stoczyli bój ze smokiem. I walczył smok i aniołowie jego, lecz nie przemógł i nie było już dla nich miejsca w niebie. I zrzucony został wielki smok, wąż starodawny, zwany diabłem i szatanem.", "n": "Wielki bój jest realnym konfliktem kosmicznym. Ziemia jest sceną, na której rozstrzyga się fundamentalne pytanie o charakter Boga i zasadność Jego prawa." },
+            { "r": "Rz 3,4", "s": "Bóg musi być uznany za sprawiedliwego wobec całego wszechświata", "t": "Niechaj Bóg będzie prawdziwy, a każdy człowiek kłamcą, jak napisano: Abyś był usprawiedliwiony w słowach swoich i odniósł zwycięstwo, gdy cię sądzą.", "n": "Bóg nie niszczy szatana natychmiast, bo cały wszechświat obserwuje ten bój. Gdyby działał siłą, potwierdziłby zarzuty szatana o despotycznej władzy. Zamiast tego Bóg udowadnia swoją sprawiedliwość przez historię." }
+          ]
+        },
+        {
+          "q": "Czy szatan jest realny, czy to tylko symbol zła?",
+          "wersety": [
+            { "r": "1 P 5,8", "s": "Szatan chodzi jak lew szukając kogo pożreć", "t": "Bądźcie trzeźwi, czuwajcie! Przeciwnik wasz, diabeł, chodzi wokoło jak lew ryczący, szukając kogo by pochłonąć.", "n": "Piotr traktuje szatana jako realne, osobowe zagrożenie – nie symbol. Używa języka konkretnego niebezpieczeństwa i wzywa do czujności. Biblia konsekwentnie opisuje szatana jako osobę, nie abstrakcję." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Życie, śmierć i zmartwychwstanie Chrystusa",
+      "kategoria": "Zbawienie",
+      "pytania": [
+        {
+          "q": "Dlaczego Jezus musiał być jednocześnie Bogiem i człowiekiem?",
+          "wersety": [
+            { "r": "Hbr 2,17", "s": "Jezus musiał stać się podobny do ludzi", "t": "Dlatego musiał we wszystkim upodobnić się do braci, aby stał się miłosiernym i wiernym arcykapłanem wobec Boga, w celu ubłagania za grzechy ludu.", "n": "Jako człowiek Jezus mógł reprezentować ludzkość. Jako Bóg Jego ofiara miała nieskończoną wartość. Tylko Bóg-Człowiek mógł zbudować most przez przepaść między grzeszną ludzkością a świętym Bogiem." },
+            { "r": "Hbr 4,15", "s": "Jezus był kuszony jak my, lecz bez grzechu", "t": "Nie mamy bowiem arcykapłana, który by nie mógł współczuć ze słabościami naszymi, lecz doświadczonego we wszystkim, podobnie jak my, z wyjątkiem grzechu.", "n": "Jezus nie tylko rozumie nasze pokusy teoretycznie – przeszedł przez nie realnie. To daje nam pewność: nasz Zbawiciel jest nie tylko potężny, ale i współczujący." }
+          ]
+        },
+        {
+          "q": "Czy zmartwychwstanie Jezusa naprawdę się wydarzyło?",
+          "wersety": [
+            { "r": "1 Kor 15,17-19", "s": "Bez zmartwychwstania wiara jest próżna", "t": "A jeśli Chrystus nie został wzbudzony, daremna jest wiara wasza; jesteście jeszcze w swoich grzechach. Jeśli tylko w tym życiu pokładamy nadzieję w Chrystusie, jesteśmy ze wszystkich ludzi najbardziej pożałowania godni.", "n": "Paweł stawia sprawę wprost: zmartwychwstanie Chrystusa jest fundamentem wiary chrześcijańskiej. Bez niego chrześcijaństwo jest niczym więcej niż piękną filozofią bez mocy zbawczej." },
+            { "r": "1 Kor 15,20", "s": "Chrystus jest pierwszym owocem zmartwychwstania", "t": "Ale teraz Chrystus został wzbudzony z martwych i jest pierwiastkiem tych, którzy zasnęli.", "n": "Zmartwychwstanie Chrystusa nie jest incydentem – jest początkiem nowej rzeczywistości. 'Pierwiastek' to pierwszy snop zbiorów, gwarantujący, że reszta plonu nastąpi. Zmartwychwstanie Jezusa jest gwarancją naszego." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Doświadczenie zbawienia",
+      "kategoria": "Zbawienie",
+      "pytania": [
+        {
+          "q": "Jak człowiek może być zbawiony? Co trzeba zrobić?",
+          "wersety": [
+            { "r": "Ef 2,8-9", "s": "Zbawieni z łaski przez wiarę, nie z uczynków", "t": "Albowiem łaską jesteście zbawieni przez wiarę, i to nie z was: Boży to dar; nie z uczynków, aby się ktoś nie chlubił.", "n": "Zbawienie jest darem, nie nagrodą. Łaska (gr. charis) to niezasłużona Boża przychylność. Wiara (gr. pistis) to ufne przyjęcie tego daru. Uczynki są efektem zbawienia, nie jego przyczyną." },
+            { "r": "J 3,3", "s": "Konieczne jest ponowne narodzenie", "t": "Jezus odpowiedział i rzekł mu: Zaprawdę, zaprawdę powiadam ci, jeśli się ktoś nie narodzi na nowo, nie może ujrzeć Królestwa Bożego.", "n": "Zbawienie nie jest reformą starego życia – to nowe narodzenie. Człowiek nie może się sam odrodzić; to Boże dzieło w człowieku, który na nie odpowiada wiarą i upamiętaniem." },
+            { "r": "Dz 16,30-31", "s": "Uwierz w Pana Jezusa, a będziesz zbawiony", "t": "I wyprowadziwszy ich na zewnątrz, rzekł: Panowie, co mam czynić, abym był zbawiony? A oni rzekli: Uwierz w Pana Jezusa, a będziesz zbawiony, ty i twój dom.", "n": "Odpowiedź Pawła i Sylasa jest prosta i radykalna: wiara w Jezusa Chrystusa. Nie lista rytuałów, nie doskonałość moralna – wiara. To nie zwalnia z moralności, ale ona jest owocem, nie warunkiem zbawienia." }
+          ]
+        },
+        {
+          "q": "Czy można mieć pewność zbawienia, czy zawsze trzeba się bać potępienia?",
+          "wersety": [
+            { "r": "Rz 8,1", "s": "Żadnego potępienia dla tych, którzy są w Chrystusie", "t": "Przeto teraz nie ma żadnego potępienia dla tych, którzy są w Chrystusie Jezusie.", "n": "Paweł zaczyna od 'przeto' – to konkluzja całego wywodu o zbawieniu. Brak potępienia nie jest warunkowy (jeśli jesteś wystarczająco dobry) – jest bezwarunkowy dla tego, kto jest 'w Chrystusie'." },
+            { "r": "1 J 5,13", "s": "Możemy wiedzieć, że mamy życie wieczne", "t": "To napisałem wam, którzy wierzycie w imię Syna Bożego, abyście wiedzieli, że macie żywot wieczny.", "n": "Jan pisze po to, by wierzący mieli pewność, nie niepewność. Zbawienie nie jest hazardem – to relacja. Pewność nie pochodzi z analizy własnej doskonałości, lecz z zaufania osobie Chrystusa." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Wzrastanie w Chrystusie",
+      "kategoria": "Zbawienie",
+      "pytania": [
+        {
+          "q": "Czy po nawróceniu człowiek musi jakoś zmienić życie?",
+          "wersety": [
+            { "r": "2 Kor 5,17", "s": "Kto jest w Chrystusie, jest nowym stworzeniem", "t": "Jeśli więc ktoś jest w Chrystusie, nowym jest stworzeniem; stare przeminęło, oto wszystko stało się nowe.", "n": "Nawrócenie nie jest kosmetyczną zmianą stylu życia – to fundamentalna zmiana tożsamości. 'Nowe stworzenie' (gr. kaine ktisis) oznacza nową kategorię bytu, nie tylko nowe postanowienia." },
+            { "r": "Flp 1,6", "s": "Bóg dokończy dzieła, które rozpoczął w nas", "t": "Będąc tego pewien, że Ten, który rozpoczął w was dobre dzieło, będzie je też dokonywał aż do dnia Chrystusa Jezusowego.", "n": "Wzrastanie w Chrystusie to Boże dzieło, nie tylko ludzki wysiłek. Bóg jest inicjatorem i gwarantem naszego duchowego wzrostu. Nasza rola: współpraca, nie samodzielna realizacja." }
+          ]
+        },
+        {
+          "q": "Co to znaczy naśladować Jezusa w praktycznym życiu?",
+          "wersety": [
+            { "r": "1 J 2,6", "s": "Kto trwa w Bogu, powinien żyć tak jak Jezus", "t": "Kto mówi, że w nim mieszka, powinien sam postępować tak, jak On postępował.", "n": "Jan stawia prosty test prawdziwości wiary: czy moje życie upodabnia się do Jezusa? To nie legalny wymóg, lecz naturalna konsekwencja życia 'w Nim'." },
+            { "r": "Rz 12,1-2", "s": "Przemiana przez odnowienie umysłu", "t": "Proszę was tedy, bracia, przez miłosierdzie Boże, abyście składali ciała swoje jako ofiarę żywą, świętą, miłą Bogu, bo taka jest duchowa służba wasza. A nie upodabniajcie się do tego świata, ale się przemieńcie przez odnowienie umysłu swego.", "n": "Przemiana chrześcijańska zaczyna się w umyśle. Odnowiony umysł widzi inaczej i wybiera inaczej. To odpowiedź na łaskę Bożą, nie warunek jej otrzymania." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Kościół",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Po co w ogóle potrzebny jest Kościół? Czy nie można wierzyć samemu?",
+          "wersety": [
+            { "r": "Hbr 10,24-25", "s": "Nie opuszczajcie wspólnych zgromadzeń", "t": "I zastanawiajmy się jedni nad drugimi w celu pobudzenia się do miłości i dobrych uczynków, nie opuszczając wspólnych zebrań naszych, jak to jest u niektórych w zwyczaju, lecz zachęcajmy się nawzajem, i to tym bardziej, im bardziej widzicie, że się ten dzień przybliża.", "n": "Biblia nie zna chrześcijaństwa bez wspólnoty. Wzajemna zachęta, odpowiedzialność, miłość – to elementy niemożliwe do realizacji w izolacji. Kościół nie jest opcją dla wierzących – jest formą życia wiary." },
+            { "r": "Ef 2,19-22", "s": "Wierzący są budowlą Bożą opartą na Chrystusie", "t": "Przeto już nie jesteście obcymi i przychodniami, lecz współobywatelami świętych i domownikami Boga, zbudowani na fundamencie apostołów i proroków, którego kamieniem węgielnym jest sam Chrystus Jezus.", "n": "Kościół jest 'domostwem Boga' – rodziną, nie instytucją. Wierzący są żywymi kamieniami budowli, której fundamentem jest Chrystus. Izolacja od Kościoła to jak kamień wytrącony z budowli." }
+          ]
+        },
+        {
+          "q": "Czy adwentyści myślą, że tylko oni się zbawią?",
+          "wersety": [
+            { "r": "Ap 18,4", "s": "Bóg ma lud w różnych wyznaniach", "t": "I usłyszałem inny głos z nieba mówiący: Wyjdźcie z niej, ludu mój, abyście nie byli uczestnikami jej grzechów i abyście nie otrzymali z jej plag.", "n": "Bóg ma swój lud w różnych wyznaniach i wzywa go do pełniejszego światła. Adwentyści wierzą, że mają szczególne posłannictwo, ale nie twierdzą, że są jedynymi zbawionymi. Bóg zna serca ludzkie." },
+            { "r": "J 10,16", "s": "Jezus ma owce z różnych owczarni", "t": "Mam i inne owce, które nie są z tej owczarni; i te muszę przyprowadzić, i głosu mojego słuchać będą, i będzie jedna owczarnia i jeden pasterz.", "n": "Jezus mówi o owcach spoza widzialnej wspólnoty uczniów. Bóg jest większy niż jakikolwiek Kościół i działa poza jego granicami. To wzywa do pokory, nie do ekskluzywizmu." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Ostatki i ich posłannictwo",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Dlaczego adwentyści myślą, że mają szczególną misję?",
+          "wersety": [
+            { "r": "Ap 14,6-7", "s": "Posłannictwo trzech aniołów dla całego świata", "t": "I zobaczyłem innego anioła lecącego przez środek nieba, który miał ewangelię wieczną, aby ją zwiastować mieszkańcom ziemi i wszystkim narodom, i plemionom, i językom, i ludom, który mówił donośnym głosem: Bójcie się Boga i oddajcie mu chwałę.", "n": "Adwentyści identyfikują się z posłannictwem trzech aniołów z Apokalipsy 14. To nie jest misja wywyższenia własnego wyznania, lecz przywrócenia pełnego biblijnego rozumienia Ewangelii przed powtórnym przyjściem Chrystusa." },
+            { "r": "Ap 12,17", "s": "Ostatki zachowują przykazania Boże i mają wiarę Jezusa", "t": "I rozgniewał się smok na niewiastę, i odszedł, aby podjąć walkę z resztą jej potomstwa, które strzeże przykazań Bożych i trwa przy świadectwie o Jezusie.", "n": "Kościół ostatków charakteryzuje się dwiema cechami: wiernością przykazaniom Bożym (w tym szabatowi) i wiarą w Jezusa. Nie chodzi o doskonałość, lecz o kierunek: ku Bogu i Jego Słowu." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Jedność Ciała Chrystusowego",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Dlaczego chrześcijanie są tak podzieleni? Czy Bóg tego chciał?",
+          "wersety": [
+            { "r": "J 17,20-21", "s": "Jezus modlił się o jedność swoich uczniów", "t": "A nie tylko za nimi proszę, ale i za tymi, którzy przez ich słowo uwierzą we mnie; aby wszyscy byli jedno, jak Ty, Ojcze, we mnie, a Ja w Tobie, aby i oni w nas jedno byli, żeby świat uwierzył, że Ty mnie posłałeś.", "n": "Jedność Kościoła jest wolą Bożą i warunkiem wiarygodności świadectwa. Jezus łączy jedność uczniów z nawróceniem świata. Podziały chrześcijańskie są tragedią, nie planem Bożym." },
+            { "r": "Ga 3,28", "s": "W Chrystusie znika każda ludzka różnica", "t": "Nie masz Żyda ani Greka, nie masz niewolnika ani wolnego, nie masz mężczyzny ani kobiety; albowiem wy wszyscy jedno jesteście w Jezusie Chrystusie.", "n": "Chrystus przekracza wszystkie bariery ludzkie. Jedność w Chrystusie nie likwiduje różnorodności – likwiduje hierarchię i podziały oparte na rasie, kulturze czy płci." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Chrzest",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Dlaczego adwentyści chrzczą przez zanurzenie, a nie pokropienie? Czy to ważne?",
+          "wersety": [
+            { "r": "Rz 6,3-4", "s": "Chrzest symbolizuje śmierć i zmartwychwstanie z Chrystusem", "t": "Czy nie wiecie, że my wszyscy, którzyśmy zostali ochrzczeni w Chrystusa Jezusa, w śmierć jego zostaliśmy ochrzczeni? Pogrzebani tedy jesteśmy wraz z nim przez chrzest w śmierć, abyśmy jak Chrystus wstał z martwych przez chwałę Ojca, tak i my nowe życie prowadzili.", "n": "Paweł opisuje chrzest jako symboliczne pogrzebanie i zmartwychwstanie. Zanurzenie ilustruje ten symbol najdoskonalej: zejście pod wodę to pogrzebanie starego życia, wyjście z wody to nowe życie w Chrystusie." },
+            { "r": "Mt 3,16", "s": "Jezus sam ochrzcił się przez zanurzenie", "t": "A gdy Jezus został ochrzczony, wyszedł zaraz z wody; i oto otworzyły się niebiosa i ujrzał Ducha Bożego, który zstępował jak gołębica i spoczął na nim.", "n": "'Wyszedł z wody' implikuje, że Jezus był w wodzie – czyli przez zanurzenie. Jezus dawał przykład nie dlatego, że potrzebował chrztu (był bez grzechu), lecz by ustanowić wzorzec dla swoich uczniów." }
+          ]
+        },
+        {
+          "q": "Czy małe dzieci powinny być chrzczone?",
+          "wersety": [
+            { "r": "Dz 8,36-37", "s": "Chrzest wymaga wiary i świadomej decyzji", "t": "A gdy jechali drogą, przybyli nad jakąś wodę, i mówi dworzanin: Oto woda; cóż stoi na przeszkodzie, abym był ochrzczony? Filip zaś rzekł: Jeśli wierzysz z całego serca, możesz.", "n": "Warunkiem chrztu jest świadoma wiara – 'jeśli wierzysz'. Niemowlę nie może świadomie uwierzyć. Adwentyści poświęcają dzieci Bogu modlitwą, ale chrzest odkładają do momentu osobistej, świadomej decyzji wiary." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Wieczerza Pańska",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Czym jest Wieczerza Pańska i co się podczas niej dzieje?",
+          "wersety": [
+            { "r": "1 Kor 11,23-26", "s": "Chleb i wino upamiętniają śmierć Chrystusa", "t": "Pan Jezus tej nocy, której był wydany, wziął chleb, i podziękowawszy, złamał i rzekł: Bierzcie, jedzcie, to jest ciało moje za was wydane; to czyńcie na pamiątkę moją. [...] Ilekroć bowiem ten chleb jecie, a z kielicha tego pijecie, śmierć Pańską zwiastujecie, aż przyjdzie.", "n": "Wieczerza jest pamiątką – żywym wspomnieniem ofiary Chrystusa – oraz zapowiedzią: 'aż przyjdzie'. Łączy przeszłość (Golgota), teraźniejszość (społeczność z Chrystusem) i przyszłość (powtórne przyjście)." }
+          ]
+        },
+        {
+          "q": "Co to jest obrzęd pokory i po co myć nogi?",
+          "wersety": [
+            { "r": "J 13,14-15", "s": "Jezus ustanowił umywanie nóg jako wzorzec służby", "t": "Jeśli tedy Ja, Pan i Nauczyciel, umyłem nogi wasze, i wy powinniście sobie nawzajem nogi umywać. Dałem wam bowiem przykład, byście i wy czynili, jak Ja wam uczyniłem.", "n": "Jezus ustanowił umywanie nóg jako trwały obrzęd ('powinniście'). Jest to praktyczna lekcja pokory i służby, a także okazja do wzajemnego przebaczenia i odnowienia relacji przed Wieczerzą Pańską." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Dary duchowe i posługi",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Czy dar mówienia językami jest konieczny dla każdego chrześcijanina?",
+          "wersety": [
+            { "r": "1 Kor 12,28-30", "s": "Nie każdy ma ten sam dar duchowy", "t": "I ustanowił Bóg w Kościele najprzód apostołów, po wtóre proroków, po trzecie nauczycieli, następnie moc czynienia cudów, potem dary uzdrawiania, niesienia pomocy, kierowania, różne języki. Czy wszyscy są apostołami? Czy wszyscy prorokami? Czy wszyscy nauczycielami? Czy wszyscy mają dar czynienia cudów?", "n": "Paweł retorycznymi pytaniami (oczekiwaną odpowiedzią jest 'nie') pokazuje, że różnorodność darów jest normą, nie brakiem. Mówienie językami jest jednym z wielu darów – nie kryterium zbawienia ani miarą duchowości." },
+            { "r": "1 Kor 12,7", "s": "Każdy dar jest dany dla dobra wspólnoty", "t": "A każdemu jest dany przejaw Ducha dla wspólnego pożytku.", "n": "Dary duchowe nie są trofeum prywatnym – są narzędziem służby dla Kościoła. Kryterium wartości daru nie jest jego spektakularność, lecz to, czy buduje wspólnotę i chwali Boga." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Dar proroctwa",
+      "kategoria": "Kościół",
+      "pytania": [
+        {
+          "q": "Kim była Ellen White i dlaczego adwentyści traktują jej pisma poważnie?",
+          "wersety": [
+            { "r": "Jl 3,1", "s": "Bóg obiecał ducha prorockiego w czasach ostatecznych", "t": "I stanie się potem, że wyleję mojego ducha na wszelkie ciało, i będą prorokować wasi synowie i wasze córki; starcom waszym będą się śnić sny, a wasi młodzieńcy będą mieli widzenia.", "n": "Adwentyści wierzą, że obietnica Joela spełniła się w minionym i obecnym czasie. Ellen White jest postrzegana jako wypełnienie tej obietnicy – jej pisma są traktowane jako natchnione wskazówki dla Kościoła, choć podporządkowane Biblii jako jedynemu kryterium wiary." },
+            { "r": "Ap 12,17", "s": "Kościół ostatków ma świadectwo Jezusa", "t": "I rozgniewał się smok na niewiastę, i odszedł, aby podjąć walkę z resztą jej potomstwa, które strzeże przykazań Bożych i trwa przy świadectwie o Jezusie.", "n": "Adwentyści interpretują 'świadectwo Jezusa' (Ap 19,10) jako ducha proroctwa. Dar proroctwa jest znakiem wyróżniającym Kościół ostatków i pomocą w rozumieniu proroczego Słowa Bożego." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Prawo Boże",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Czy chrześcijanin musi przestrzegać Dziesięciorga Przykazań?",
+          "wersety": [
+            { "r": "Mt 5,17-18", "s": "Jezus nie przyszedł znieść Prawa, ale wypełnić", "t": "Nie mniemajcie, że przyszedłem rozwiązać zakon albo proroków; nie przyszedłem rozwiązać, lecz wypełnić. Bo zaprawdę powiadam wam: dopóki niebo i ziemia nie przeminą, ani jedna jota, ani jedna kreska nie przeminie z zakonu.", "n": "Jezus nie zastąpił Prawa nowym kodeksem – pogłębił jego rozumienie. Prawo nie zbawia (to wyłącznie dzieło łaski), ale opisuje charakter Bożej miłości i wskazuje kierunek życia odkupionego człowieka." },
+            { "r": "1 J 5,3", "s": "Miłość do Boga wyraża się w zachowywaniu przykazań", "t": "Na tym bowiem polega miłość ku Bogu, że się przestrzega przykazań jego, a przykazania jego nie są uciążliwe.", "n": "Jan odwraca popularne myślenie: nie 'musisz przestrzegać przykazań', lecz 'jeśli kochasz, naturalnie chcesz przestrzegać'. Przykazania są mapą miłości, nie listą kar za nieposłuszeństwo." },
+            { "r": "Rz 3,31", "s": "Wiara nie obala Prawa, lecz je utwierdza", "t": "Czy więc zakon obalamy przez wiarę? Wręcz przeciwnie, zakon utwierdzamy.", "n": "Paweł odpowiada na zarzut antynomizmu (odrzucenia Prawa przez wiarę). Wiara i Prawo nie są w konflikcie: wiara spełnia to, czego Prawo samo nie mogło osiągnąć – przemienia serce." }
+          ]
+        },
+        {
+          "q": "Co z Prawem Mojżeszowym – czy mamy przestrzegać wszystkich przepisów Starego Testamentu?",
+          "wersety": [
+            { "r": "Kol 2,14-16", "s": "Ceremonialne przepisy były cieniem wskazującym na Chrystusa", "t": "Wymazał obciążający nas zapis dłużny, który przeciwstawiał się nam ze swoimi wymaganiami, i usunął go, przybiwszy go do krzyża. [...] Niechaj was tedy nikt nie osądza z powodu pokarmu i napoju albo z powodu święta lub nowiu księżyca bądź sabatu.", "n": "Paweł rozróżnia ceremonialne przepisy (roczne sabaty żydowskie, przepisy ofiarnicze, ograniczenia pokarmowe z systemu ofiarniczego) od moralnego Prawa Bożego. Te pierwsze były cieniem wskazującym na Chrystusa i wypełniły się w Nim." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Sobota",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Dlaczego adwentyści świętują sobotę, a nie niedzielę?",
+          "wersety": [
+            { "r": "Wj 20,8-11", "s": "Pamiętaj dzień sobotni, siódmy dzień tygodnia", "t": "Pamiętaj o dniu sabatu, aby go święcić. Sześć dni będziesz pracował i wykonywał wszelką swoją pracę, ale siódmy dzień jest sabatem Pana, Boga twego. [...] Gdyż w sześciu dniach uczynił Pan niebo i ziemię, morze i wszystko, co w nich jest, a siódmego dnia odpoczął.", "n": "Czwarte przykazanie jest jedynym przykazaniem rozpoczynającym się słowem 'pamiętaj'. Bóg z góry wiedział, że ludzie o nim zapomną. Siódmy dzień (sobota) jest konkretny – ustanowiony przy stworzeniu, przed jakimkolwiek prawem żydowskim." },
+            { "r": "Mk 2,27-28", "s": "Szabat jest dla człowieka, Jezus jest Panem szabatu", "t": "I rzekł im: Sabat jest ustanowiony dla człowieka, a nie człowiek dla sabatu. Tak więc Syn Człowieczy jest Panem sabatu.", "n": "Jezus nie znosi szabatu – mówi, że jest jego Panem. Odrzuca faryzejskie wypaczenie szabatu jako ciężaru, przywracając jego pierwotny sens: dar Boga dla człowieka – czas odpoczynku, społeczności i radości." },
+            { "r": "Rdz 2,2-3", "s": "Bóg pobłogosławił siódmy dzień przed grzechem człowieka", "t": "A gdy Bóg ukończył w dniu siódmym dzieło swoje, które uczynił, odpoczął dnia siódmego od wszelkiego dzieła, które uczynił. I pobłogosławił Bóg dzień siódmy, i poświęcił go, bo w nim odpoczął od wszelkiego dzieła.", "n": "Szabat jest starszy od Izraela, od grzechu i od Dziesięciorga Przykazań. Ustanowiony przy stworzeniu jest dla całej ludzkości. Bóg pobłogosławił ten konkretny dzień, nie ideę odpoczynku." }
+          ]
+        },
+        {
+          "q": "Kiedy zmieniono szabat na niedzielę i kto to zrobił?",
+          "wersety": [
+            { "r": "Dn 7,25", "s": "Mała władza myśli o zmianie czasów i Prawa", "t": "I będzie mówił zuchwałe słowa przeciwko Najwyższemu i będzie gnębił świętych Najwyższego; będzie zamierzał zmienić czasy i prawo, i będą wydani w jego rękę.", "n": "Daniel proroczo opisuje władzę, która spróbuje zmienić Boże 'czasy i prawo'. Adwentyści interpretują to jako zapowiedź historycznej zmiany dnia szabatu na niedzielę, dokonanej przez Kościół w Rzymie w IV-V wieku." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Zarządztwo",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Dlaczego adwentyści płacą dziesięcinę? Czy to obowiązkowe?",
+          "wersety": [
+            { "r": "Ml 3,10", "s": "Przynieś całą dziesięcinę, a Bóg pobłogosławi", "t": "Przynieście całą dziesięcinę do spichlerza, aby był zapas w moim domu, i w ten sposób wystawcie mnie na próbę, mówi Pan zastępów, czy wam nie otworzę okien niebieskich i nie wyleję na was błogosławieństwa ponad miarę.", "n": "Bóg zaprasza do 'wystawienia Go na próbę' w tej jednej kwestii finansowej. Dziesięcina to nie podatek – to wyraz zaufania Bogu w zarządzaniu tym, co jest Jego własnością powierzoną człowiekowi." },
+            { "r": "Mt 6,24", "s": "Nie można służyć Bogu i mamonie", "t": "Nikt nie może dwom panom służyć, gdyż albo jednego będzie nienawidził, a drugiego miłował, albo jednego będzie się trzymał, a drugim wzgardzi. Nie możecie służyć Bogu i mamonie.", "n": "Jezus wskazuje, że stosunek do pieniędzy i posiadania jest wskaźnikiem priorytetu duchowego. Zarządzanie finansami jest sprawą duchową, nie tylko ekonomiczną." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Chrześcijańskie zachowanie",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Dlaczego adwentyści mają specyficzne zasady dotyczące stylu życia?",
+          "wersety": [
+            { "r": "1 Kor 6,19-20", "s": "Ciało jest świątynią Ducha Świętego", "t": "Albo czy nie wiecie, że ciało wasze jest świątynią Ducha Świętego, który jest w was i którego macie od Boga, i że nie należycie też do siebie samych? Drogoście bowiem kupieni. Wysławiajcie tedy Boga w ciele waszym.", "n": "Paweł daje teologiczny fundament dla troski o zdrowie: ciało należy do Boga i jest mieszkaniem Ducha Świętego. Styl życia (dieta, używki, aktywność) jest wyrazem zarządztwa tym, co Bóg nam powierzył." },
+            { "r": "Rz 12,2", "s": "Nie upodabniajcie się do świata", "t": "A nie upodabniajcie się do tego świata, ale się przemieńcie przez odnowienie umysłu swego, abyście umieli rozróżnić, co jest wolą Bożą, co jest dobre, miłe i doskonałe.", "n": "Chrześcijańskie zachowanie nie jest kwestią kulturowej tradycji – to efekt przemiany umysłu. Różnica między stylem życia chrześcijańskim a światowym powinna być widoczna i motywowana Bożą wolą, nie ludzkim legalizmem." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Małżeństwo i rodzina",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Jakie jest biblijne rozumienie małżeństwa?",
+          "wersety": [
+            { "r": "Rdz 2,24", "s": "Małżeństwo – jeden mężczyzna i jedna kobieta, jedno ciało", "t": "Dlatego opuści mężczyzna ojca swego i matkę swoją i złączy się z żoną swoją, i będą jednym ciałem.", "n": "Jezus powołuje się na ten werset jako definicję małżeństwa (Mt 19,4-5). Małżeństwo biblijne to przymierze między mężczyzną a kobietą, ustanowione przez Boga przed grzechem, jako obraz relacji Chrystusa i Kościoła." },
+            { "r": "Ef 5,25", "s": "Mąż ma kochać żonę jak Chrystus kochał Kościół", "t": "Mężowie, miłujcie żony swoje, jak i Chrystus umiłował Kościół i wydał zań samego siebie.", "n": "Paweł stawia poprzeczkę zdumiewająco wysoko: miłość jak Chrystus do Kościoła – ofiarna, bezwarunkowa, służebna. To odwraca wszelki model dominacji: lider służy, nie rządzi." }
+          ]
+        },
+        {
+          "q": "Czy Bóg może naprawdę naprawić zranioną rodzinę?",
+          "wersety": [
+            { "r": "Ps 68,7", "s": "Bóg daje samotnym dom", "t": "Bóg daje samotnym dom, wyprowadza jeńców na wolność z pomyślnością.", "n": "Bóg jest Bogiem rodziny. Niezależnie od tego, jak zraniona lub rozbita jest rodzina człowieka z przeszłości, Bóg oferuje nowy dom – wspólnotę Kościoła jako rodzinę Bożą." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Służba człowiekowi",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Co Biblia mówi o pomaganiu biednym i chorym?",
+          "wersety": [
+            { "r": "Mt 25,35-36", "s": "Służba potrzebującym to służba Chrystusowi", "t": "Albowiem łaknąłem, a daliście mi jeść; pragnąłem, a daliście mi pić; byłem przychodniem, a przyjęliście mnie; byłem nagi, a przyodzialiście mnie; byłem chory, a odwiedziliście mnie; byłem w więzieniu, a przyszliście do mnie.", "n": "Jezus utożsamia się z potrzebującymi w zadziwiający sposób: co robimy dla nich, robimy dla Niego. Służba społeczna nie jest dodatkiem do wiary – jest jej integralną częścią. To praktyczne wypełnienie miłości bliźniego." },
+            { "r": "Jk 2,17", "s": "Wiara bez uczynków jest martwa", "t": "Tak i wiara, jeżeli nie ma uczynków, martwa jest sama w sobie.", "n": "Jakub nie przeciwstawia wiary i uczynków (Paweł jasno stwierdza: zbawieni z łaski przez wiarę). Jakub mówi: żywa wiara z natury rodzi uczynki miłości. Brak służby to symptom martwej wiary." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Państwo i rząd",
+      "kategoria": "Życie chrześcijańskie",
+      "pytania": [
+        {
+          "q": "Czy chrześcijanin powinien angażować się politycznie i słuchać władzy?",
+          "wersety": [
+            { "r": "Rz 13,1", "s": "Władza pochodzi od Boga – słuchać jej jest obowiązkiem", "t": "Każdy człowiek niech się poddaje władzom zwierzchnim; bo nie ma władzy, jak tylko od Boga, a te, które są, przez Boga są ustanowione.", "n": "Paweł pisze to za rządów Nerona – nie idealnego władcy. Chrześcijanie szanują władzę cywilną jako Boże narzędzie porządku społecznego. To jednak nie jest posłuszeństwo bezwzględne." },
+            { "r": "Dz 5,29", "s": "Bogiem trzeba słuchać bardziej niż ludzi", "t": "Odpowiadając zaś Piotr i apostołowie, rzekli: Bogiem trzeba słuchać bardziej niż ludzi.", "n": "Granica posłuszeństwa władzy jest wyraźna: gdy władza nakazuje łamanie Bożych przykazań, wierzący musi odmówić. To fundament wolności religijnej i sumienia, za którą adwentyści konsekwentnie się opowiadają." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Śmierć i zmartwychwstanie",
+      "kategoria": "Rzeczy ostateczne",
+      "pytania": [
+        {
+          "q": "Co dzieje się między śmiercią a zmartwychwstaniem?",
+          "wersety": [
+            { "r": "Koh 9,5", "s": "Umarli nie mają świadomości", "t": "Żywi bowiem wiedzą, że umrą, lecz umarli nic nie wiedzą i nie ma już dla nich żadnej zapłaty, gdyż pamięć o nich idzie w zapomnienie.", "n": "Stan między śmiercią a zmartwychwstaniem to nieświadomy odpoczynek – jak głęboki sen. Dla samego człowieka nie ma subiektywnego upływu czasu; zmartwychwstanie nadejdzie jakby zaraz po ostatnim oddechu." },
+            { "r": "1 Tes 4,13-14", "s": "Umarli w Chrystusie zmartwychwstaną przy Jego powrocie", "t": "A nie chcemy, bracia, abyście byli w niepewności co do tych, którzy zasnęli, abyście się nie smucili, jak drudzy, którzy nie mają nadziei. Bo jeśli wierzymy, że Jezus umarł i zmartwychwstał, to też tych, którzy zasnęli w Jezusie, Bóg przez Jezusa przywiedzie wraz z nim.", "n": "Nadzieja chrześcijańska przy pogrzebie nie jest w duszy 'w niebie' – jest w zmartwychwstaniu przy powrocie Chrystusa. To konkretna, cielesna nadzieja, nie mglisty spirytualizm." }
+          ]
+        },
+        {
+          "q": "Czy piekło płonie wiecznie? Co stanie się z niegodziwymi?",
+          "wersety": [
+            { "r": "J 3,16", "s": "Alternatywą zbawienia jest zginięcie, nie wieczne męczarnie", "t": "Albowiem tak Bóg umiłował świat, że Syna swego jednorodzonego dał, aby każdy, kto weń wierzy, nie zginął, ale miał żywot wieczny.", "n": "Jezus mówi o 'zginięciu' (gr. apollymi) – zniszczeniu, nie wiecznym cierpieniu. Adwentyści wierzą w piekło jako ostateczne zniszczenie (annihilacjonizm), nie wieczne świadome cierpienie. Bóg nie jest wiecznym torturownikiem." },
+            { "r": "Ml 4,1", "s": "Niezbożni zostaną spaleni jak ściernisko", "t": "Bo oto nadchodzi dzień, który płonie jak piec, a wszyscy pyszni i wszyscy popełniający bezbożność będą jak ściernisko; dzień nadchodzący spali ich, mówi Pan zastępów, tak iż nie pozostanie po nich ani korzenia, ani gałązki.", "n": "Malachiasz używa obrazu ognia, który całkowicie niszczy – nie torturuje wiecznie. 'Nie pozostanie korzenia ani gałązki' wskazuje na całkowite zniszczenie, nie wieczne trwanie w cierpieniu." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Tysiącletnie Królestwo i koniec grzechu",
+      "kategoria": "Rzeczy ostateczne",
+      "pytania": [
+        {
+          "q": "Co to jest millenium i co będzie się działo przez tysiąc lat?",
+          "wersety": [
+            { "r": "Ap 20,1-3", "s": "Szatan będzie związany przez tysiąc lat", "t": "I widziałem anioła zstępującego z nieba, który miał klucz od otchłani i wielki łańcuch w ręku. I pochwycił smoka, węża starodawnego, którym jest diabeł i szatan, i związał go na tysiąc lat.", "n": "Adwentyści wierzą, że millenium rozpoczyna się przy powtórnym przyjściu Chrystusa. Zbawieni rządzą z Chrystusem w niebie, ziemia jest wyludniona (szatan 'związany' brakiem ofiar), a po tysiącu lat następuje ostateczny sąd." },
+            { "r": "Ap 20,4", "s": "Zbawieni będą sędziami podczas millenium", "t": "I widziałem trony, i usiedli na nich ci, którym dano władzę sądzenia.", "n": "Millenium to czas, gdy zbawieni będą mieli możliwość przejrzenia zapisów Bożego sądu. To odpowiedź na pytania: 'Dlaczego ten człowiek nie jest zbawiony?' Bóg jest sprawiedliwy i transparentny." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Nowa ziemia",
+      "kategoria": "Rzeczy ostateczne",
+      "pytania": [
+        {
+          "q": "Jak będzie wyglądał wieczny dom zbawionych? Co będziemy robić w niebie?",
+          "wersety": [
+            { "r": "Ap 21,3-4", "s": "Bóg zamieszka z ludźmi – nie będzie już śmierci ani płaczu", "t": "I usłyszałem donośny głos z tronu mówiący: Oto przybytek Boga między ludźmi! I będzie mieszkał z nimi, a oni będą ludem jego, a sam Bóg będzie z nimi i będzie Bogiem ich. I otrze wszelką łzę z oczu ich, i śmierci już nie będzie; ani smutku, ani krzyku, ani mozołu już nie będzie; albowiem pierwsze rzeczy przeminęły.", "n": "Wieczność to nie bezcielesne unoszenie się na chmurach – to przywrócona, doskonała relacja między Bogiem a człowiekiem. Bóg zamieszka z ludźmi na odnowionej ziemi. Smutek, ból i śmierć zostaną ostatecznie usunięte." },
+            { "r": "Iz 65,21-22", "s": "Zbawieni będą budować domy i sadzić winnice", "t": "I będą budować domy i mieszkać w nich, i będą sadzić winnice i jeść ich owoce. Nie będą budować dla kogoś innego, aby ten mieszkał, nie będą sadzić dla kogoś innego, aby ten jadł.", "n": "Izajasz opisuje nową ziemię w bardzo konkretnych, fizycznych kategoriach: domy, ogrody, praca twórcza. Wieczność to nie bezczynna kontemplacja, lecz aktywne, twórcze życie w doskonałym środowisku, bez grzechu i śmierci." },
+            { "r": "1 Kor 2,9", "s": "Oko nie widziało, co Bóg przygotował", "t": "Ale głosimy, jak napisano: Czego oko nie widziało i ucho nie słyszało, i co do serca ludzkiego nie wstąpiło, to przygotował Bóg tym, którzy go miłują.", "n": "Nasze wyobrażenia o wieczności są zawsze za skromne. Bóg, który stworzył wszechświat z jego nieskończoną różnorodnością, przygotował dla zbawionych coś, co przekracza ludzką wyobraźnię – i to jest dobra nowina." }
+          ]
+        },
+        {
+          "q": "Czy naprawdę warto wierzyć – co jeśli to wszystko nieprawda?",
+          "wersety": [
+            { "r": "Rz 8,18", "s": "Cierpienia teraźniejsze nie są warte porównania z chwałą", "t": "Albowiem sądzę, że obecne cierpienia nic nie znaczą w porównaniu z chwałą, która ma się nam objawić.", "n": "Paweł – który sam wiele wycierpiał – dokonuje bilansu: obecne cierpienia kontra przyszła chwała. Nie udaje, że cierpienie nie istnieje. Twierdzi, że w wiecznej perspektywie nie ma porównania. Wiara ma sens nawet w najciemniejszych momentach." },
+            { "r": "J 10,10", "s": "Jezus przyszedł, aby ludzie mieli życie w obfitości", "t": "Złodziej przychodzi tylko po to, by kraść, zarzynać i niszczyć. Ja przyszedłem, aby miały życie i miały je w obfitości.", "n": "Wiara w Jezusa Chrystusa nie jest ubezpieczeniem na wypadek, gdyby okazało się, że istnieje Bóg. To pełne, obfite życie – teraz i w wieczności. Jezus obiecuje jakość życia, nie tylko jego długość." }
+          ]
+        }
+      ]
+    }
+  ]
+}

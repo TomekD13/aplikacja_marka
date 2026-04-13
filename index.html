@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1B4F8A">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Tematy Biblijne">
+  <title>Tematy Biblijne</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ══════════════ APP SHELL ══════════════ -->
+<div class="app-wrap">
+
+  <!-- Top Bar -->
+  <header class="top-bar">
+    <button class="top-bar-back" id="back-btn" onclick="goBack()" aria-label="Wróć">‹</button>
+    <div class="top-bar-content">
+      <div class="top-bar-title" id="top-title">Tematy Biblijne</div>
+      <div class="top-bar-subtitle" id="top-subtitle">Czego szuka twój rozmówca?</div>
+    </div>
+    <button class="top-bar-settings" id="settings-btn" onclick="openSettings()" aria-label="Ustawienia">⚙</button>
+  </header>
+
+  <!-- Screens -->
+  <main class="screens-wrap">
+
+    <!-- ── Home Screen ── -->
+    <div id="screen-home" class="screen active">
+      <div class="search-wrap">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input type="search" id="search-input" class="search-input"
+            placeholder="Szukaj tematu lub słowa kluczowego..."
+            autocomplete="off" autocorrect="off" spellcheck="false"
+            oninput="onSearch(this.value)">
+        </div>
+      </div>
+      <div class="category-chips-wrap" id="category-chips"></div>
+      <div class="topics-grid" id="topics-grid"></div>
+    </div>
+
+    <!-- ── Questions Screen ── -->
+    <div id="screen-questions" class="screen">
+      <div class="questions-header">
+        <div class="questions-zasada-title" id="q-zasada-title"></div>
+        <span class="questions-chip" id="q-kategoria-chip"></span>
+      </div>
+      <div class="questions-list" id="questions-list"></div>
+      <div class="ai-bar">
+        <button class="ai-bar-btn" onclick="openChatFromTopic()">✦ Zapytaj Pastora AI o tę zasadę</button>
+      </div>
+    </div>
+
+    <!-- ── Verse Screen ── -->
+    <div id="screen-verse" class="screen">
+      <div class="verse-screen-inner">
+        <!-- Top: verse list -->
+        <div class="verse-list-panel" id="verse-list-panel"></div>
+
+        <!-- Bottom: verse detail -->
+        <div class="verse-detail-panel">
+          <div class="verse-empty" id="verse-empty">Wybierz tekst biblijny powyżej</div>
+
+          <div id="verse-detail" style="display:none; flex-direction:column; flex:1; min-height:0;">
+            <div class="verse-detail-content">
+              <div class="verse-ref-label" id="d-ref"></div>
+              <div class="verse-bible-text" id="d-text"></div>
+              <div class="verse-comment-block">
+                <span class="verse-comment-label">Komentarz</span>
+                <div class="verse-comment-text" id="d-comment"></div>
+              </div>
+            </div>
+            <div class="verse-nav-row">
+              <button class="verse-nav-btn" id="prev-btn" onclick="moveVerse(-1)" disabled>‹</button>
+              <button class="verse-nav-close" onclick="closeVerseDetail()">✕</button>
+              <button class="verse-nav-btn" id="next-btn" onclick="moveVerse(1)" disabled>›</button>
+            </div>
+          </div>
+
+          <button class="btn-show-guest" id="guest-btn" onclick="openGuestMode()" disabled>
+            POKAŻ ROZMÓWCY ▶
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Chat Screen ── -->
+    <div id="screen-chat" class="screen">
+      <div class="chat-inner">
+        <div class="chat-messages" id="chat-messages"></div>
+        <div class="chat-chips-wrap" id="chat-chips"></div>
+        <div class="chat-input-bar">
+          <input type="text" id="chat-input" class="chat-input"
+            placeholder="Twoje pytanie..."
+            onkeydown="if(event.key==='Enter')sendChat()">
+          <button class="chat-send-btn" id="chat-send-btn" onclick="sendChat()">➤</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Favorites Screen ── -->
+    <div id="screen-favorites" class="screen">
+      <div class="favorites-placeholder">
+        <div class="favorites-placeholder-icon">♡</div>
+        <div class="favorites-placeholder-title">Ulubione wersety</div>
+        <div class="favorites-placeholder-desc">
+          Funkcja zapisywania ulubionych wersetów<br>
+          będzie dostępna w kolejnej wersji.
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Settings Screen ── -->
+    <div id="screen-settings" class="screen">
+      <div class="settings-section">
+        <div class="settings-section-title">Pastor AI</div>
+        <div class="settings-row">
+          <div class="settings-label">Klucz API Anthropic</div>
+          <div class="settings-desc">
+            Klucz API jest przechowywany lokalnie na tym urządzeniu.
+            Uzyskaj klucz na console.anthropic.com
+          </div>
+          <input type="password" id="api-key-input" class="settings-input"
+            placeholder="sk-ant-api03-…" autocomplete="off" autocorrect="off">
+          <button class="btn-primary" onclick="saveApiKey()">Zapisz klucz API</button>
+          <button class="btn-danger" id="clear-api-btn" onclick="clearApiKey()" style="display:none">
+            Wyczyść klucz API
+          </button>
+          <div id="api-key-status" style="font-size:12px;color:var(--muted)"></div>
+        </div>
+      </div>
+
+      <div class="settings-section" style="margin-top:12px">
+        <div class="settings-section-title">Tryb rozmówcy</div>
+        <div class="settings-row">
+          <div class="toggle-row">
+            <div>
+              <div class="settings-label">Pokaż komentarz rozmówcy</div>
+              <div class="settings-desc">Czy rozmówca widzi komentarz pod wersetem</div>
+            </div>
+            <div class="toggle" id="comment-toggle" onclick="toggleCommentSetting()"></div>
+          </div>
+        </div>
+      </div>
+
+      <div style="height:20px"></div>
+    </div>
+
+  </main><!-- /screens-wrap -->
+
+  <!-- Bottom Nav -->
+  <nav class="bottom-nav" id="bottom-nav">
+    <button class="nav-tab active" id="tab-home" onclick="navTo('home')">
+      <span class="nav-icon">🔍</span>
+      <span>Dom</span>
+    </button>
+    <button class="nav-tab" id="tab-topics" onclick="navTo('topics')">
+      <span class="nav-icon">☰</span>
+      <span>Tematy</span>
+    </button>
+    <button class="nav-tab" id="tab-favorites" onclick="navTo('favorites')">
+      <span class="nav-icon">♡</span>
+      <span>Ulubione</span>
+    </button>
+    <button class="nav-tab" id="tab-ai" onclick="navTo('chat')">
+      <span class="nav-icon">✦</span>
+      <span>Pastor AI</span>
+    </button>
+  </nav>
+
+</div><!-- /app-wrap -->
+
+<!-- ══════════════ GUEST MODE OVERLAY ══════════════ -->
+<div id="guest-overlay" class="guest-overlay hidden">
+  <div class="guest-ref" id="guest-ref"></div>
+  <div class="guest-text" id="guest-text"></div>
+  <hr class="guest-divider">
+  <div class="guest-comment" id="guest-comment"></div>
+  <button class="guest-back" onclick="exitGuestMode()">Wróć</button>
+</div>
+
+<!-- ══════════════ SW UPDATE TOAST ══════════════ -->
+<div id="sw-toast" class="sw-toast hidden">
+  Dostępna nowa wersja –
+  <a onclick="location.reload()">odśwież</a>
+</div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
